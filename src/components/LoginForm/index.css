@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.the-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.image {
+  min-height: 60%;
+  min-width: 60%;
+}
+.label {
+  color: #475569;
+  font-size: 15px;
+}
+.input {
+  min-width: 40%;
+  max-height: 25px;
+  background-color: #d7dfe9;
+}
+.btn {
+  color: white;
+  border: 0px;
+  border-radius: 7px;
+  background-color: #0b69ff;
+}
+.erronious {
+  color: #ff0b37;
+  font-size: 13px;
+}

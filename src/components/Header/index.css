@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+* {
+  font-family: 'Roboto';
+}
+.the-cont {
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+.link {
+  text-decoration: none;
+  color: #475569;
+  font-size: 18px;
+  margin: 2px;
+}
+.image {
+  width: 10px;
+  height: 20px;
+}
+.logout-btn {
+  border: 0px;
+  border-radius: 7px;
+  color: white;
+  background-color: #0b69ff;
+  font-size: 18px;
+}

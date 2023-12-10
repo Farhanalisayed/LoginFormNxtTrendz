@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.the-container {
+  display: flex;
+  flex-direction: column;
+}
+.lower-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+}
+.description {
+  color: #64748b;
+  font-size: 17px;
+}
+.btn {
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 7px;
+  border: 0px;
+  text-align: center;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
